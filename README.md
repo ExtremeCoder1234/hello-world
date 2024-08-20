@@ -1,4 +1,4 @@
 # hello-world
 My First Repository
-# I lovvvvvve programming
-#i also lovvvvvvve space
+# I love programming
+#i also  rally love space
